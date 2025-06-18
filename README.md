@@ -1,6 +1,6 @@
-<h2> chatlyzer</h1>
+## chatlyzer
 
-A lightweight and fast tool for analyzing chat data from Telegram JSON exports.
+A lightweight ool for analyzing chat data from Telegram JSON exports.
 
 ## Introduction
 
@@ -9,14 +9,6 @@ A lightweight and fast tool for analyzing chat data from Telegram JSON exports.
 - **Message counts** by user.
 - **Media usage** (photos, videos, voice messages, stickers).
 - **Peak activity times** (most active day and hour).
-
----
-
-## Community
-
-For help, discussions:
-
-- [Discuss Chatlyzer on GitHub](https://github.com/gnify/chatlyzer/discussions)
 
 ---
 
